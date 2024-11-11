@@ -1,6 +1,6 @@
 # Online Learning Platform (OLP)
 
-An interactive learning management system built with the MERN stack (MongoDB, Express.js, React, Node.js) that provides a comprehensive platform for online education.
+An interactive learning management system built with the MERN stack (MongoDB, Express.js, React, Node.js) that provides a comprehensive platform for online education. Unique features 
 
 ## 🌟 Features
 
